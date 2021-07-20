@@ -1,7 +1,6 @@
 .card {
-  background-color: transparent;
   height: 220px;
-  width: 300px;
+  width: 320px;
   perspective: 1000px;
   margin: 0px auto;
   cursor: pointer;
@@ -32,15 +31,19 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  border: 1px solid #333;
+  border-radius: 15px;
 }
 
 .card-front {
-  background-color: #bbb;
-  color: black;
+  background: url("../../Assets/bg.jpeg");
+  background-size: cover;
+  background-position: center;
+  font-weight: bold;
 }
 
 .card-back {
-  background-color: #2980b9;
+  background-color: #222;
   color: white;
   transform: rotateX(180deg);
 }
