@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/flash-cards/static/css/main.a617e044.chunk.css",
-    "main.js": "/flash-cards/static/js/main.57271bc9.chunk.js",
-    "main.js.map": "/flash-cards/static/js/main.57271bc9.chunk.js.map",
-    "runtime-main.js": "/flash-cards/static/js/runtime-main.499cd881.js",
-    "runtime-main.js.map": "/flash-cards/static/js/runtime-main.499cd881.js.map",
-    "static/js/2.0b2077c7.chunk.js": "/flash-cards/static/js/2.0b2077c7.chunk.js",
-    "static/js/2.0b2077c7.chunk.js.map": "/flash-cards/static/js/2.0b2077c7.chunk.js.map",
-    "static/js/3.6c0465bb.chunk.js": "/flash-cards/static/js/3.6c0465bb.chunk.js",
-    "static/js/3.6c0465bb.chunk.js.map": "/flash-cards/static/js/3.6c0465bb.chunk.js.map",
+    "main.css": "/flash-cards/static/css/main.d5803cc3.chunk.css",
+    "main.js": "/flash-cards/static/js/main.2899a228.chunk.js",
+    "main.js.map": "/flash-cards/static/js/main.2899a228.chunk.js.map",
+    "runtime-main.js": "/flash-cards/static/js/runtime-main.e9457688.js",
+    "runtime-main.js.map": "/flash-cards/static/js/runtime-main.e9457688.js.map",
+    "static/js/2.92aefe5b.chunk.js": "/flash-cards/static/js/2.92aefe5b.chunk.js",
+    "static/js/2.92aefe5b.chunk.js.map": "/flash-cards/static/js/2.92aefe5b.chunk.js.map",
+    "static/js/3.5f08a85e.chunk.js": "/flash-cards/static/js/3.5f08a85e.chunk.js",
+    "static/js/3.5f08a85e.chunk.js.map": "/flash-cards/static/js/3.5f08a85e.chunk.js.map",
     "index.html": "/flash-cards/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/flash-cards/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.0b2077c7.chunk.js.LICENSE.txt": "/flash-cards/static/js/2.0b2077c7.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/flash-cards/static/media/logo.6ce24c58.svg"
+    "static/css/main.d5803cc3.chunk.css.map": "/flash-cards/static/css/main.d5803cc3.chunk.css.map",
+    "static/js/2.92aefe5b.chunk.js.LICENSE.txt": "/flash-cards/static/js/2.92aefe5b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/flash-cards/static/media/bg.eb12da02.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.499cd881.js",
-    "static/js/2.0b2077c7.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.57271bc9.chunk.js"
+    "static/js/runtime-main.e9457688.js",
+    "static/js/2.92aefe5b.chunk.js",
+    "static/css/main.d5803cc3.chunk.css",
+    "static/js/main.2899a228.chunk.js"
   ]
 }
