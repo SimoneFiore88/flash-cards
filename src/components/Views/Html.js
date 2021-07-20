@@ -19,8 +19,6 @@ export default function Html() {
     setQuestions(temp);
   };
 
-  const resetDeck = () => {};
-
   return (
     <div className="container">
       <div className="row">
@@ -53,6 +51,13 @@ export default function Html() {
             </button>
           </div>
         )}
+      </div>
+      <div className="row">
+        <div className="col-12">
+          <button className="btn btn-info" onClick={() => setQuestions(data)}>
+            Rimescola
+          </button>
+        </div>
       </div>
     </div>
   );
